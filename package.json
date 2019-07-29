@@ -1,0 +1,26 @@
+{
+  "name": "modernportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio template by Traversy Media",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorixd/modernPortfolio.git"
+  },
+  "keywords": [
+    "Responsive",
+    "Portfolio"
+  ],
+  "author": "@hectorixd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hectorixd/modernPortfolio/issues"
+  },
+  "homepage": "https://github.com/hectorixd/modernPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
